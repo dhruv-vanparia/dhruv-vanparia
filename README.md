@@ -33,7 +33,7 @@ Hi, I'm Dhruv having an experience of 2+ years in React Native and Python.
 
 <b>Job Roles:</b>
 <br>
-I’m interested in Devops, Cyber Security and Server Troubleshooting.
+My day to day job roles are to provide solutions and building rich UI/UX components for mobile applications with react native. I’m also interested in Devops and Cyber Security.
 </br>
 </br>
 <b>Tech Stack and Expertise</b></br>
@@ -49,7 +49,7 @@ Please connect with me on  <a style="color: blue;" href="https://www.clixlogix.c
 <b>Statics:</b>
 <p align="left">
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=srishti-clixlogix&show_icons=true&theme=gruvbox&hide_border=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=srishti-clixlogix&theme=gruvbox&hide_border=true" />
+    <img width="49.5%" src="[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dhruv-vanparia&theme=cobalt&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)" />
 </p>
 <br>
 
